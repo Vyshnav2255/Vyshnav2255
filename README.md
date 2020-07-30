@@ -13,4 +13,4 @@ Find more about me on my [Website](http://vyshnav.netlify.app/).
 
 If you are interested in knowing which tools I use, you can [check out my uses page](https://vyshnav.netlify.app/more/).
 
-Click here to [Contact Me](https://vyshnav.netlify.app/contact/)
+Click here to [Contact Me](https://vyshnav.netlify.app/contact/).
