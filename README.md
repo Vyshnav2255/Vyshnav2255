@@ -8,5 +8,3 @@
 # 👋 Hello, world!
 
 I'm Vyshnav Gangadharan and I'm a UI/UX Designer who loves coding. I'm currently a Chemical Engineering Student. I love learning new stuff. I also love Graphic designing and Film Making. Check out my [blog](https://vyshnav.netlify.app/blog/).
-
-Find more about me on my [Website](http://vyshnav.netlify.app/).
